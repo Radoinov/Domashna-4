@@ -17,9 +17,6 @@ namespace Domashna_4
             Author = author;
         }
 
-        public override string ToString()
-        {
-            return $"Zaglavie: {Title}, Avtor: {Author}";
-        }
+        
     }
 }
